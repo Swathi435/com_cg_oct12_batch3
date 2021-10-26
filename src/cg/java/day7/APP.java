@@ -8,8 +8,8 @@ public class APP {
 			String str = "abc"; // ensure that digits 		
 			String email = "abc@gmail.com";
 
-			int num = Integer.parseInt(str);
-			System.out.println(num);
+			int number = Integer.parseInt(str);
+			System.out.println(number);
 
 }
 }
