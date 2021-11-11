@@ -9,7 +9,7 @@ package com.java.day7.collection;
 
 			int[] arr = new int[5];
 			System.out.println(arr[4]);
-	//	int[] arr = new int[5];
+	//g	int[] arr = new int[5];
 //		System.out.println(arr[4]);
 
 			ArrayList myList = new ArrayList();
