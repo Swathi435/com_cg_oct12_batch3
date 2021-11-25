@@ -12,7 +12,7 @@ public class App1 {
 
 			obj.functionalMethod();
 			
+			
 			}
-
 }
 }
